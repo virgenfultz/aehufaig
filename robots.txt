@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riechoona.wordsharer.com/sitemap.xml
